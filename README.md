@@ -1,4 +1,4 @@
-# 🌿 KeshCare — AI-Based Hair Care Recommendation System
+# 🌿 KeshCare  AI-Based Hair Care Recommendation System
 
 > **“Your Hair, Understood by AI”**
 
